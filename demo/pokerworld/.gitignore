@@ -1,0 +1,9 @@
+Library/ShaderCache/
+Library/PackageCache/
+Library/StateCache/
+Library/Artifacts/
+Temp/
+*.csproj
+*.sln
+Library/il2cpp_cache/
+Library/PlayerDataCache/
